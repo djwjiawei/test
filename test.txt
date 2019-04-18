@@ -1,5 +1,5 @@
 dong`trest`
-<<<<<<< HEAD
-test  jiawei  dong
-
-dongjiawei
+jia
+wei
+123456
+8888
