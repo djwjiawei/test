@@ -1,9 +1,57 @@
-dongjiawei test
-test
-123456dfasd
-asdfasdkl
-asdfasdfasdfasd dong  dong 888 jkasdjfklas
-1
-2
-4
-6
+D:\zbvideo\spartan2\spartan\backend\modules\bus\controllers\RouteController.php:325:boolean false
+D:\zbvideo\spartan2\spartan\backend\modules\bus\controllers\RouteController.php:326:
+object(backend\models\bus\RouteTime)[60]
+  private '_attributes' (yii\db\BaseActiveRecord) =>
+    array (size=7)
+      'id' => int 16
+      'route_id' => string '19' (length=2)
+      'start_time' => int 1555804800
+      'count' => string '20' (length=2)
+      'type' => int 1
+      'add_time' => string '1555925657' (length=10)
+      'up_time' => int 1555990407
+  private '_oldAttributes' (yii\db\BaseActiveRecord) =>
+    array (size=7)
+      'id' => int 16
+      'route_id' => string '19' (length=2)
+      'start_time' => string '1555804800' (length=10)
+      'count' => string '200' (length=3)
+      'type' => int 1
+      'add_time' => string '1555925657' (length=10)
+      'up_time' => string '0' (length=1)
+  private '_related' (yii\db\BaseActiveRecord) =>
+    array (size=0)
+      empty
+  private '_relationsDependencies' (yii\db\BaseActiveRecord) =>
+    array (size=0)
+      empty
+  private '_errors' (yii\base\Model) =>
+    array (size=1)
+      'type' =>
+        array (size=1)
+          0 => string 'Type蹇呴』鏄竴鏉″瓧绗︿覆銆�' (length=31)
+  private '_validators' (yii\base\Model) =>
+    object(ArrayObject)[41]
+      private 'storage' =>
+        array (size=2)
+          0 =>
+            object(yii\validators\NumberValidator)[63]
+              ...
+          1 =>
+            object(yii\validators\StringValidator)[69]
+              ...
+  private '_scenario' (yii\base\Model) => string 'default' (length=7)
+  private '_events' (yii\base\Component) =>
+    array (size=0)
+      empty
+  private '_eventWildcards' (yii\base\Component) =>
+    array (size=0)
+      empty
+  private '_behaviors' (yii\base\Component) =>
+    array (size=0)
+      empty
+D:\zbvideo\spartan2\spartan\backend\modules\bus\controllers\RouteController.php:327:
+array (size=1)
+  'type' =>
+    array (size=1)
+      0 => string 'Type蹇呴』鏄竴鏉″瓧绗︿覆銆�' (length=31)
